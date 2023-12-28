@@ -1,0 +1,1 @@
+This project is a collection of my favorite recipes. The purpose of this project is to practice my HTML basics. Skills demonstrated in this project are; using HTML tags, including attributes in tags, putting links into the page, and displaying images on the page.
